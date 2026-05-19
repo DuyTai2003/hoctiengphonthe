@@ -34,7 +34,7 @@ export default function ListeningPage() {
   useEffect(() => {
     fetch('/podcasts/list.json').then(r=>r.json()).then((data:PodcastInfo[]) => {
       setPodcasts(data.filter(p => p.youtubeId)); // chỉ hiện podcast có video
-    }).catch(()=>{});
+    }).catch(e=>console.error('Load podcasts error:', e));
   }, []);
 
   const selected = podcasts.find(p => p.id === selectedId);
