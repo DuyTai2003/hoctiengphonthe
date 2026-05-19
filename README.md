@@ -1,18 +1,27 @@
 # 📚 Học Tiếng Trung Phồn Thể — TOCFL
 
-🇬🇧 English &nbsp;|&nbsp; 🇻🇳 Tiếng Việt &nbsp;|&nbsp; 🇨🇳 简体中文 &nbsp;|&nbsp; 🇹🇼 繁體中文
+<div align="center">
 
-[Next.js](https://nextjs.org/) [TypeScript](https://www.typescriptlang.org/) [Tailwind CSS](https://tailwindcss.com/) [DeepSeek AI](https://deepseek.com/) [TOCFL](https://tocfl.edu.tw/)
+**[🇬🇧 English](#english)** &nbsp;|&nbsp; **[🇻🇳 Tiếng Việt](#vietnamese)** &nbsp;|&nbsp; **[🇨🇳 简体中文](#simplified-chinese)** &nbsp;|&nbsp; **[🇹🇼 繁體中文](#traditional-chinese)**
 
-> 🎓 Full-stack web app for learning Traditional Chinese — vocabulary, reading & listening practice with AI-powered translations & YouTube podcast sync.
+*Full-stack web app for learning Traditional Chinese — vocabulary, reading & listening practice with AI-powered translations & YouTube podcast sync.*
 
----
+[![Next.js](https://img.shields.io/badge/Next.js-16.2-black?logo=next.js)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss)]()
+[![DeepSeek AI](https://img.shields.io/badge/AI-DeepSeek-4D6BFE)]()
+[![TOCFL](https://img.shields.io/badge/TOCFL-7%20Bands-orange)]()
+[![License](https://img.shields.io/badge/license-MIT-green)]()
 
-## 🌐 🇬🇧 English &nbsp;|&nbsp; 🇻🇳 Tiếng Việt &nbsp;|&nbsp; 🇨🇳 简体中文 &nbsp;|&nbsp; 🇹🇼 繁體中文
+### 🌐 Live Demo: [https://hoctiengphonthe.netlify.app](https://hoctiengphonthe.netlify.app)
+
+</div>
 
 ---
 
 ## 🇬🇧 English
+
+<a name="english"></a>
 
 ### Overview
 
@@ -130,6 +139,8 @@ hoctiengphonthe/
 
 ## 🇻🇳 Tiếng Việt
 
+<a name="vietnamese"></a>
+
 ### Tổng Quan
 
 Nền tảng học tiếng Trung Phồn thể toàn diện, xây dựng cho kỳ thi TOCFL. Gồm 7.517 từ vựng chia 7 cấp độ, 100 bài đọc có quiz do AI tạo, và luyện nghe YouTube podcast với transcript đồng bộ — tất cả được dịch sang tiếng Việt qua DeepSeek AI.
@@ -194,6 +205,8 @@ Nền tảng học tiếng Trung Phồn thể toàn diện, xây dựng cho kỳ
 
 ## 🇨🇳 简体中文
 
+<a name="simplified-chinese"></a>
+
 ### 概述
 
 面向 TOCFL 备考的繁体中文学习平台。包含 7,517 个词汇（7 个等级）、100 篇 AI 生成阅读文章（附测验）以及 YouTube 播客听力（带同步字幕）——全部通过 DeepSeek AI 翻译为越南语。
@@ -221,6 +234,8 @@ Nền tảng học tiếng Trung Phồn thể toàn diện, xây dựng cho kỳ
 ---
 
 ## 🇹🇼 繁體中文
+
+<a name="traditional-chinese"></a>
 
 ### 概述
 
