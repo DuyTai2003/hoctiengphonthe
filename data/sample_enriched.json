@@ -1,0 +1,802 @@
+[
+  {
+    "id": "N1_0001",
+    "vocabulary": "我",
+    "pinyin": "wŏ",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "ngã",
+    "meaning_vi": "Tôi, tớ",
+    "example": "我是學生。",
+    "example_pinyin": "Wŏ shì xuéshēng.",
+    "example_meaning_vi": "Tôi là học sinh.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0002",
+    "vocabulary": "你",
+    "pinyin": "nĭ",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "nhĩ",
+    "meaning_vi": "Bạn, anh, chị, em (ngôi thứ 2)",
+    "example": "你好嗎？",
+    "example_pinyin": "Nĭ hăo ma?",
+    "example_meaning_vi": "Bạn khỏe không?",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0003",
+    "vocabulary": "他",
+    "pinyin": "tā",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "tha",
+    "meaning_vi": "Anh ấy, cô ấy",
+    "example": "他是老師。",
+    "example_pinyin": "Tā shì lăoshī.",
+    "example_meaning_vi": "Anh ấy là giáo viên.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0004",
+    "vocabulary": "我們",
+    "pinyin": "wŏmen",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "ngã môn",
+    "meaning_vi": "Chúng tôi, chúng ta",
+    "example": "我們是朋友。",
+    "example_pinyin": "Wŏmen shì péngyŏu.",
+    "example_meaning_vi": "Chúng tôi là bạn bè.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0005",
+    "vocabulary": "你們",
+    "pinyin": "nĭmen",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "nhĩ môn",
+    "meaning_vi": "Các bạn, các anh, các chị",
+    "example": "你們好！",
+    "example_pinyin": "Nĭmen hăo!",
+    "example_meaning_vi": "Chào các bạn!",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0006",
+    "vocabulary": "他們",
+    "pinyin": "tāmen",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "tha môn",
+    "meaning_vi": "Họ, bọn họ",
+    "example": "他們是中國人。",
+    "example_pinyin": "Tāmen shì zhōngguórén.",
+    "example_meaning_vi": "Họ là người Trung Quốc.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0007",
+    "vocabulary": "您",
+    "pinyin": "nín",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "nín",
+    "meaning_vi": "Ngài, ông, bà (kính ngữ của 你)",
+    "example": "您好！請坐。",
+    "example_pinyin": "Nín hăo! Qĭng zuò.",
+    "example_meaning_vi": "Chào ngài! Mời ngồi.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0008",
+    "vocabulary": "誰",
+    "pinyin": "shéi",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "thùy",
+    "meaning_vi": "Ai, người nào",
+    "example": "你是誰？",
+    "example_pinyin": "Nĭ shì shéi?",
+    "example_meaning_vi": "Bạn là ai?",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0009",
+    "vocabulary": "姓名",
+    "pinyin": "xìngmíng",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "tính danh",
+    "meaning_vi": "Họ và tên",
+    "example": "請寫下你的姓名。",
+    "example_pinyin": "Qĭng xiě xià nĭ de xìngmíng.",
+    "example_meaning_vi": "Hãy viết họ tên của bạn.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0010",
+    "vocabulary": "人",
+    "pinyin": "rén",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "nhân",
+    "meaning_vi": "Người, con người",
+    "example": "這裡有很多人。",
+    "example_pinyin": "Zhèlĭ yŏu hěn duō rén.",
+    "example_meaning_vi": "Ở đây có rất nhiều người.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0011",
+    "vocabulary": "國",
+    "pinyin": "guó",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "quốc",
+    "meaning_vi": "Nước, quốc gia",
+    "example": "你是哪國人？",
+    "example_pinyin": "Nĭ shì nă guó rén?",
+    "example_meaning_vi": "Bạn là người nước nào?",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0012",
+    "vocabulary": "中國",
+    "pinyin": "zhōngguó",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "Trung Quốc",
+    "meaning_vi": "Trung Quốc",
+    "example": "我去過中國。",
+    "example_pinyin": "Wŏ qù guò zhōngguó.",
+    "example_meaning_vi": "Tôi đã từng đến Trung Quốc.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0013",
+    "vocabulary": "美國",
+    "pinyin": "měiguó",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "Mỹ Quốc",
+    "meaning_vi": "Mỹ, Hoa Kỳ",
+    "example": "他從美國來。",
+    "example_pinyin": "Tā cóng měiguó lái.",
+    "example_meaning_vi": "Anh ấy đến từ Mỹ.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0014",
+    "vocabulary": "日本",
+    "pinyin": "rìběn",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "Nhật Bản",
+    "meaning_vi": "Nhật Bản",
+    "example": "我喜歡日本料理。",
+    "example_pinyin": "Wŏ xĭhuān rìběn liàolĭ.",
+    "example_meaning_vi": "Tôi thích món ăn Nhật.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0015",
+    "vocabulary": "台灣",
+    "pinyin": "táiwān",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "Đài Loan",
+    "meaning_vi": "Đài Loan",
+    "example": "台灣是一個美麗的地方。",
+    "example_pinyin": "Táiwān shì yī gè měilì de dìfāng.",
+    "example_meaning_vi": "Đài Loan là một nơi xinh đẹp.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0016",
+    "vocabulary": "名字",
+    "pinyin": "míngzi",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "danh tự",
+    "meaning_vi": "Tên, tên gọi",
+    "example": "你的名字很好聽。",
+    "example_pinyin": "Nĭ de míngzi hěn hăotīng.",
+    "example_meaning_vi": "Tên của bạn rất hay.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0017",
+    "vocabulary": "家",
+    "pinyin": "jiā",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "gia",
+    "meaning_vi": "Nhà, gia đình",
+    "example": "我家有五個人。",
+    "example_pinyin": "Wŏ jiā yŏu wŭ gè rén.",
+    "example_meaning_vi": "Nhà tôi có năm người.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0018",
+    "vocabulary": "電話",
+    "pinyin": "diànhuà",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "điện thoại",
+    "meaning_vi": "Điện thoại, cuộc gọi",
+    "example": "你的電話號碼是多少？",
+    "example_pinyin": "Nĭ de diànhuà hàomă shì duōshăo?",
+    "example_meaning_vi": "Số điện thoại của bạn là bao nhiêu?",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0019",
+    "vocabulary": "時間",
+    "pinyin": "shíjiān",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "thời gian",
+    "meaning_vi": "Thời gian, lúc",
+    "example": "現在沒有時間。",
+    "example_pinyin": "Xiànzài méiyŏu shíjiān.",
+    "example_meaning_vi": "Bây giờ không có thời gian.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0020",
+    "vocabulary": "小時",
+    "pinyin": "xiăoshí",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "tiểu thời",
+    "meaning_vi": "Giờ, tiếng đồng hồ",
+    "example": "我等了兩個小時。",
+    "example_pinyin": "Wŏ děng le liăng gè xiăoshí.",
+    "example_meaning_vi": "Tôi đã đợi hai tiếng đồng hồ.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0021",
+    "vocabulary": "現在",
+    "pinyin": "xiànzài",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "hiện tại",
+    "meaning_vi": "Bây giờ, hiện tại",
+    "example": "現在幾點了？",
+    "example_pinyin": "Xiànzài jĭ diăn le?",
+    "example_meaning_vi": "Bây giờ mấy giờ rồi?",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0022",
+    "vocabulary": "今年",
+    "pinyin": "jīnnián",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "kim niên",
+    "meaning_vi": "Năm nay",
+    "example": "今年我二十歲。",
+    "example_pinyin": "Jīnnián wŏ èrshí suì.",
+    "example_meaning_vi": "Năm nay tôi hai mươi tuổi.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0023",
+    "vocabulary": "今天",
+    "pinyin": "jīntiān",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "kim thiên",
+    "meaning_vi": "Hôm nay",
+    "example": "今天天氣很好。",
+    "example_pinyin": "Jīntiān tiānqì hěn hăo.",
+    "example_meaning_vi": "Hôm nay thời tiết rất đẹp.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0024",
+    "vocabulary": "明天",
+    "pinyin": "míngtiān",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "minh thiên",
+    "meaning_vi": "Ngày mai",
+    "example": "明天見！",
+    "example_pinyin": "Míngtiān jiàn!",
+    "example_meaning_vi": "Hẹn gặp ngày mai!",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0025",
+    "vocabulary": "昨天",
+    "pinyin": "zuótiān",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "tạc thiên",
+    "meaning_vi": "Hôm qua",
+    "example": "昨天我很忙。",
+    "example_pinyin": "Zuótiān wŏ hěn máng.",
+    "example_meaning_vi": "Hôm qua tôi rất bận.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0026",
+    "vocabulary": "早上",
+    "pinyin": "zăoshàng",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "tảo thượng",
+    "meaning_vi": "Buổi sáng",
+    "example": "我每天早上六點起床。",
+    "example_pinyin": "Wŏ měitiān zăoshàng liù diăn qĭchuáng.",
+    "example_meaning_vi": "Mỗi sáng tôi dậy lúc sáu giờ.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0027",
+    "vocabulary": "上午",
+    "pinyin": "shàngwŭ",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "thượng ngọ",
+    "meaning_vi": "Buổi sáng (trước 12h trưa)",
+    "example": "上午我有課。",
+    "example_pinyin": "Shàngwŭ wŏ yŏu kè.",
+    "example_meaning_vi": "Buổi sáng tôi có tiết học.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0028",
+    "vocabulary": "中午",
+    "pinyin": "zhōngwŭ",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "trung ngọ",
+    "meaning_vi": "Buổi trưa, giữa trưa",
+    "example": "中午我們一起吃飯。",
+    "example_pinyin": "Zhōngwŭ wŏmen yīqĭ chīfàn.",
+    "example_meaning_vi": "Buổi trưa chúng ta cùng ăn cơm.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0029",
+    "vocabulary": "下午",
+    "pinyin": "xiàwŭ",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "hạ ngọ",
+    "meaning_vi": "Buổi chiều",
+    "example": "下午我去圖書館。",
+    "example_pinyin": "Xiàwŭ wŏ qù túshūguăn.",
+    "example_meaning_vi": "Buổi chiều tôi đi thư viện.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0030",
+    "vocabulary": "晚上",
+    "pinyin": "wănshàng",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "vãn thượng",
+    "meaning_vi": "Buổi tối",
+    "example": "晚上我喜歡看書。",
+    "example_pinyin": "Wănshàng wŏ xĭhuān kànshū.",
+    "example_meaning_vi": "Buổi tối tôi thích đọc sách.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0031",
+    "vocabulary": "一",
+    "pinyin": "yī",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "nhất",
+    "meaning_vi": "Một, số 1",
+    "example": "我有一個弟弟。",
+    "example_pinyin": "Wŏ yŏu yī gè dìdi.",
+    "example_meaning_vi": "Tôi có một người em trai.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0032",
+    "vocabulary": "二",
+    "pinyin": "èr",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "nhị",
+    "meaning_vi": "Hai, số 2",
+    "example": "他有兩個妹妹。",
+    "example_pinyin": "Tā yŏu liăng gè mèimei.",
+    "example_meaning_vi": "Anh ấy có hai người em gái.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0033",
+    "vocabulary": "三",
+    "pinyin": "sān",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "tam",
+    "meaning_vi": "Ba, số 3",
+    "example": "我有三本書。",
+    "example_pinyin": "Wŏ yŏu sān běn shū.",
+    "example_meaning_vi": "Tôi có ba cuốn sách.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0034",
+    "vocabulary": "四",
+    "pinyin": "sì",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "tứ",
+    "meaning_vi": "Bốn, số 4",
+    "example": "一年有四個季節。",
+    "example_pinyin": "Yī nián yŏu sì gè jìjié.",
+    "example_meaning_vi": "Một năm có bốn mùa.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0035",
+    "vocabulary": "五",
+    "pinyin": "wŭ",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "ngũ",
+    "meaning_vi": "Năm, số 5",
+    "example": "一個星期有五天。",
+    "example_pinyin": "Yī gè xīngqī yŏu wŭ tiān.",
+    "example_meaning_vi": "Một tuần có năm ngày.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0036",
+    "vocabulary": "六",
+    "pinyin": "liù",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "lục",
+    "meaning_vi": "Sáu, số 6",
+    "example": "現在六點了。",
+    "example_pinyin": "Xiànzài liù diăn le.",
+    "example_meaning_vi": "Bây giờ sáu giờ rồi.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0037",
+    "vocabulary": "七",
+    "pinyin": "qī",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "thất",
+    "meaning_vi": "Bảy, số 7",
+    "example": "一星期有七天。",
+    "example_pinyin": "Yī xīngqī yŏu qī tiān.",
+    "example_meaning_vi": "Một tuần có bảy ngày.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0038",
+    "vocabulary": "八",
+    "pinyin": "bā",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "bát",
+    "meaning_vi": "Tám, số 8",
+    "example": "我早上八點上班。",
+    "example_pinyin": "Wŏ zăoshàng bā diăn shàngbān.",
+    "example_meaning_vi": "Sáng tôi đi làm lúc tám giờ.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0039",
+    "vocabulary": "九",
+    "pinyin": "jiŭ",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "cửu",
+    "meaning_vi": "Chín, số 9",
+    "example": "他今年九歲。",
+    "example_pinyin": "Tā jīnnián jiŭ suì.",
+    "example_meaning_vi": "Năm nay nó chín tuổi.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0040",
+    "vocabulary": "十",
+    "pinyin": "shí",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "thập",
+    "meaning_vi": "Mười, số 10",
+    "example": "這本書十塊錢。",
+    "example_pinyin": "Zhè běn shū shí kuài qián.",
+    "example_meaning_vi": "Cuốn sách này mười đồng.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0041",
+    "vocabulary": "兩",
+    "pinyin": "liăng",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "lưỡng",
+    "meaning_vi": "Hai (dùng với lượng từ)",
+    "example": "我要兩個蘋果。",
+    "example_pinyin": "Wŏ yào liăng gè píngguŏ.",
+    "example_meaning_vi": "Tôi muốn hai quả táo.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0042",
+    "vocabulary": "時候",
+    "pinyin": "shíhòu",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "thời hậu",
+    "meaning_vi": "Lúc, khi, thời điểm",
+    "example": "你什麼時候來？",
+    "example_pinyin": "Nĭ shénme shíhòu lái?",
+    "example_meaning_vi": "Khi nào bạn đến?",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0043",
+    "vocabulary": "百",
+    "pinyin": "băi",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "bách",
+    "meaning_vi": "Trăm, 100",
+    "example": "這件衣服一百塊。",
+    "example_pinyin": "Zhè jiàn yīfú yī băi kuài.",
+    "example_meaning_vi": "Cái áo này một trăm đồng.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0044",
+    "vocabulary": "半",
+    "pinyin": "bàn",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "bán",
+    "meaning_vi": "Một nửa, rưỡi",
+    "example": "我要半個西瓜。",
+    "example_pinyin": "Wŏ yào bàn gè xīguā.",
+    "example_meaning_vi": "Tôi muốn nửa quả dưa hấu.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0045",
+    "vocabulary": "千",
+    "pinyin": "qiān",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "thiên",
+    "meaning_vi": "Nghìn, ngàn, 1000",
+    "example": "這台電腦五千塊。",
+    "example_pinyin": "Zhè tái diànnăo wŭ qiān kuài.",
+    "example_meaning_vi": "Cái máy tính này năm nghìn đồng.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0046",
+    "vocabulary": "爸爸",
+    "pinyin": "bàba",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "ba ba",
+    "meaning_vi": "Bố, ba, cha",
+    "example": "我爸爸是醫生。",
+    "example_pinyin": "Wŏ bàba shì yīshēng.",
+    "example_meaning_vi": "Bố tôi là bác sĩ.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0047",
+    "vocabulary": "媽媽",
+    "pinyin": "māma",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "ma ma",
+    "meaning_vi": "Mẹ, má",
+    "example": "媽媽做的菜很好吃。",
+    "example_pinyin": "Māma zuò de cài hěn hăochī.",
+    "example_meaning_vi": "Món ăn mẹ nấu rất ngon.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0048",
+    "vocabulary": "哥哥",
+    "pinyin": "gēge",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "ca ca",
+    "meaning_vi": "Anh trai",
+    "example": "我哥哥比我大三歲。",
+    "example_pinyin": "Wŏ gēge bĭ wŏ dà sān suì.",
+    "example_meaning_vi": "Anh trai tôi lớn hơn tôi ba tuổi.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0049",
+    "vocabulary": "弟弟",
+    "pinyin": "dìdi",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "đệ đệ",
+    "meaning_vi": "Em trai",
+    "example": "弟弟今年五歲。",
+    "example_pinyin": "Dìdi jīnnián wŭ suì.",
+    "example_meaning_vi": "Em trai năm nay năm tuổi.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  },
+  {
+    "id": "N1_0050",
+    "vocabulary": "姊姊",
+    "pinyin": "jiějie",
+    "pos": [
+      "N"
+    ],
+    "context": "個人資料",
+    "sino_vietnamese": "tỉ tỉ",
+    "meaning_vi": "Chị gái",
+    "example": "姊姊是大學生。",
+    "example_pinyin": "Jiějie shì dàxuéshēng.",
+    "example_meaning_vi": "Chị gái là sinh viên đại học.",
+    "level_code": "N1",
+    "level_name": "準備級一級"
+  }
+]
