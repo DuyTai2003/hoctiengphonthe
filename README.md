@@ -19,6 +19,16 @@
 
 ---
 
+## 📸 Preview / Ảnh chụp màn hình
+
+| 📖 Từ vựng | 📚 Luyện đọc | 🎧 Luyện nghe |
+|:---:|:---:|:---:|
+| ![Từ vựng](./screenshots/1.png) | ![Luyện đọc](./screenshots/2.png) | ![Luyện nghe](./screenshots/3.png) |
+
+> 💡 **Tip:** 7,517 từ vựng TOCFL · 100 bài đọc AI · YouTube podcast với transcript đồng bộ
+
+---
+
 ## 🇬🇧 English
 
 <a name="english"></a>
