@@ -3,13 +3,14 @@
 import { useState, useEffect, useRef } from 'react';
 import { Headphones, Play, Pause, SkipBack, SkipForward, Eye, EyeOff, ListMusic, ChevronRight } from 'lucide-react';
 import vocabData from '@/data/sample_enriched.json';
+import podcastList from '@/../public/podcasts/list.json';
 import { VocabularyWord } from '@/lib/types';
 
 interface Sub { start: number; end: number; text: string; }
 interface PodcastInfo { id:string; title:string; titleVi:string; youtubeUrl:string; youtubeId:string; topic:string; }
 
 export default function ListeningPage() {
-  const [podcasts, setPodcasts] = useState<PodcastInfo[]>([]);
+  const [podcasts] = useState<PodcastInfo[]>(() => (podcastList as PodcastInfo[]).filter(p => p.youtubeId));
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [subs, setSubs] = useState<Sub[]>([]);
   const [subsVi, setSubsVi] = useState<string[]>([]);
@@ -29,13 +30,6 @@ export default function ListeningPage() {
     vocab.forEach(w => m.set(w.vocabulary,{meaning_vi:w.meaning_vi,pinyin:w.pinyin,sino_vietnamese:w.sino_vietnamese}));
     vmap.current = m;
   }, [vocab]);
-
-  // Load danh sách podcast
-  useEffect(() => {
-    fetch('/podcasts/list.json').then(r=>r.json()).then((data:PodcastInfo[]) => {
-      setPodcasts(data.filter(p => p.youtubeId)); // chỉ hiện podcast có video
-    }).catch(e=>console.error('Load podcasts error:', e));
-  }, []);
 
   const selected = podcasts.find(p => p.id === selectedId);
 
